@@ -1,0 +1,32 @@
+* {
+  background-color: black;
+}
+
+#poster {
+  color: turquoise;
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+}
+
+#image {
+  border: 5px solid white;
+  border-left: 5px solid white;
+  border-right: 5px solid white;
+  width: 100%; 
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#header {
+  font-family: "Libre Baskerville", courier;
+  font-stretch: expanded;
+  font-weight: lighter;
+  text-transform: uppercase;
+  margin-bottom: 0%;
+}
+
+#text {
+  margin-top: 0.5%;
+  font-family: "Courier";
+}
